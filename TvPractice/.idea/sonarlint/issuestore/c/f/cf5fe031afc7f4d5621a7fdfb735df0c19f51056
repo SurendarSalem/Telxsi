@@ -1,0 +1,56 @@
+
+L
+java:S18748"6Remove this use of "BrowseFragment"; it is deprecated.(ÔÁÙú
+`
+java:S1874I"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(†¼â
+O
+java:S1874K"9Remove this use of "onActivityCreated"; it is deprecated.(€…É’
+e
+java:S1874W"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(İßéàúÿÿÿÿ
+J
+java:S1874v"4Remove this use of "getResources"; it is deprecated.(·ßƒ£
+L
+java:S1874w"1Remove this use of "getString"; it is deprecated.(³¥úÿÿÿÿ
+J
+java:S1874x"4Remove this use of "getResources"; it is deprecated.(Â©—Ÿ
+J
+java:S1874€"3Remove this use of "getActivity"; it is deprecated.(×ÜÇ¡
+O
+java:S1874"3Remove this use of "getActivity"; it is deprecated.(ÆÙÎïşÿÿÿÿ
+O
+java:S1874ƒ"3Remove this use of "getActivity"; it is deprecated.(Á„ÒŠıÿÿÿÿ
+O
+java:S1874…"3Remove this use of "getActivity"; it is deprecated.(â×Ñúÿÿÿÿ
+M
+java:S1874‹"1Remove this use of "getString"; it is deprecated.(½ÇÜ»ûÿÿÿÿ
+O
+java:S1874‘"3Remove this use of "getActivity"; it is deprecated.(Ï¾˜ÿÿÿÿÿ
+O
+java:S1874“"3Remove this use of "getActivity"; it is deprecated.(½ƒ›Åÿÿÿÿÿ
+J
+java:S1874›"3Remove this use of "getActivity"; it is deprecated.(¬ëµË
+O
+java:S1874§"3Remove this use of "getActivity"; it is deprecated.(õµËúøÿÿÿÿ
+J
+java:S1874Æ"3Remove this use of "getActivity"; it is deprecated.(Ş¤Ê¼
+O
+java:S1874Ê"3Remove this use of "getActivity"; it is deprecated.( ü£éşÿÿÿÿ
+O
+java:S1874Î"3Remove this use of "getActivity"; it is deprecated.(–šÍÇûÿÿÿÿ
+H
+java:S1874Ğ"1Remove this use of "getString"; it is deprecated.(à­í
+I
+java:S1874Ñ"3Remove this use of "getActivity"; it is deprecated.(´ÔêK
+L
+java:S1874Ò"5Remove this use of "startActivity"; it is deprecated.(©Éò·
+J
+java:S1874Ô"3Remove this use of "getActivity"; it is deprecated.(äş¥ı
+—
+java:S1186‰"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÖæÁU
+O
+java:S1874ı"3Remove this use of "getActivity"; it is deprecated.(ñãÄ şÿÿÿÿ
+M
+java:S3398¶"1Move this method into "ItemViewSelectedListener".(åÑã”şÿÿÿÿ
+D
+java:S3398¤"-Move this method into "UpdateBackgroundTask".(éÓúå
+W	java:S125Š"<This block of commented-out lines of code should be removed.(ÆäÈÅıÿÿÿÿ
